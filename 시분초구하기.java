@@ -13,7 +13,7 @@ public class 시분초구하기 {
         int minute = sec%3600/60;
         int second = sec%60;
 
-        System.out.println("입력된 시간은"+hour+"시"+minute+"분"+second+"초 입니다.");
+        System.out.println("입력된 시간은"+hour+"시"+minute+"분"+second+"초 입니다1.");
 
 
     }
