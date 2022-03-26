@@ -1,6 +1,7 @@
 public class 삼항연산자 {
     public static void main(String[] args) {
-
+    
+        
 
     // 삼항연산자 : 조건 ? true인경우 : false인경우
     int nu1 = 10;
